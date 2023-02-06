@@ -1,0 +1,13 @@
+* {
+    font-family: 'Defago Noto Sans';
+}
+
+body {
+    padding: 10px;
+    background-color: #eee;
+}
+
+a {
+    text-decoration: none;
+}
+
